@@ -9,10 +9,10 @@ A moderately in-depth foray into predictive data-analytics techniques and visual
 - Sentiment analysis of review and summary textual data revealed interesting insights into customers' opinions of Turtle Games' products.
 
 # File descriptions:
-- Chen_Christian_DA201_Assignment_Notebook.ipynb: A Jupyter Notebook file containing all elements of the analysis in Python.
+- Chen_Christian_DA301_Assignment_Notebook.ipynb: A Jupyter Notebook file containing all elements of the analysis in Python.
 - Chen_Christian_DA301_Assignment_Rscript.R: A R-script file containing all elements of the analysis in R.
-- Chen_Christian_DA201_Assignment_Report.pdf: A report detailing the main findings of the analysis, as well as resultant recommendations.
-- Chen_Christian_DA201_Assignment_Presentation.mp4: N/A (This file was originally meant to be included, but it exceeds the file size limit for GitHub)
+- Chen_Christian_DA301_Assignment_Report.pdf: A report detailing the main findings of the analysis, as well as resultant recommendations.
+- Chen_Christian_DA301_Assignment_Presentation.mp4: N/A (This file was originally meant to be included, but it exceeds the file size limit for GitHub)
 
 # Version control:
 - 24/07/2023: Uploaded initial commits of all main files (v1.0).
